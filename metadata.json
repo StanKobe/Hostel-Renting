@@ -1,0 +1,6 @@
+{
+  "name": "Hostel Renting and Payment System",
+  "description": "Hostel renting and rental payment system with real-time room availability tracking, visual floor-map style selection, automated billing invoices, and payment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

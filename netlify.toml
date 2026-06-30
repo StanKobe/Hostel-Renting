@@ -1,0 +1,11 @@
+[build]
+  # The command to compile the React/Vite application
+  command = "npm run build"
+  # The output directory created by Vite
+  publish = "dist"
+
+[[redirects]]
+  # Redirect all routes to index.html for React SPA routing support
+  from = "/*"
+  to = "/index.html"
+  status = 200
